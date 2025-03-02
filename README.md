@@ -1,10 +1,10 @@
-# Mern Stack Intern EY: Building a Robust Web Application
-A comprehensive web application developed using the MERN stack, designed to provide a seamless and efficient user experience.
+# EY Intern Mern Stack: Building a Robust Web Application of Food Delivery
+A comprehensive Food Delivery web application developed using the MERN stack, designed to provide a seamless and efficient user experience.
 
 🖼️ Preview
 ![image](https://github.com/user-attachments/assets/9414b187-4099-4438-86c9-2de60314b56b)
 
-[image](https://github.com/user-attachments/assets/86fe95cf-3fc2-4b08-b87d-dafcbe07f91e)
+![image](https://github.com/user-attachments/assets/86fe95cf-3fc2-4b08-b87d-dafcbe07f91e)
 
 ![image](https://github.com/user-attachments/assets/1bb67f7d-fab4-4e4b-947b-d023b3e074d6)
 
